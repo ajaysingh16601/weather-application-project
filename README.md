@@ -18,3 +18,4 @@ Link to her Repo: https://github.com/manifestinteractive/weather-underground-ico
 The API provider is http://www.OpenWeatherMap.org
 
 To Create this web application please follow the tutorial on my channel:https://youtu.be/KqZGuzrY9D4
+CLICK HERE TO VIEW DEPLOYEMENT- https://ajaysingh16601.github.io/weather-application-project/
